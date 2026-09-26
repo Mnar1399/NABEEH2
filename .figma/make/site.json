@@ -1,0 +1,11 @@
+{
+  "title": "NABEEH",
+  "description": "Create custom applications effortlessly with an intuitive interface designed for users seeking quick, no-code app development solutions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
